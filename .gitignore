@@ -1,0 +1,12 @@
+logs
+*.log
+pids
+node_modules
+.npm
+*.dat
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
